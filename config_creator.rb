@@ -125,4 +125,4 @@ end
 # script << server_load_source_script
 # FileSaver.save_at_file(script)
 # puts NetworkWorker.get_hostname_by_ip
-p Resolv.getaddress "google.com"
+#p Resolv.getaddress "google.com"
